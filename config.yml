@@ -1,11 +1,11 @@
 # Discord bot run token
-TOKEN: 'NzUwNzA0MzczNTU3ODg3MDM4.X0-Z7g.K10FROIOMEQYV0dCIyLPTV6e7Qo'
+TOKEN: 'Token'
 
 # Bot prefix
 Prefix: '+'
 
 # Role name, role you want add 
-RoleName: 'Vip Role'
+RoleName: 'Role'
 
 # Name of the .txt file where your serial/key/license are stored
 SerialFile: 'serial.txt'
