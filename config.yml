@@ -1,0 +1,21 @@
+# Discord bot run token
+TOKEN: 'NzUwNzA0MzczNTU3ODg3MDM4.X0-Z7g.K10FROIOMEQYV0dCIyLPTV6e7Qo'
+
+# Bot prefix
+Prefix: '+'
+
+# Role name, role you want add 
+RoleName: 'Vip Role'
+
+# Name of the .txt file where your serial/key/license are stored
+SerialFile: 'serial.txt'
+
+# VALID KEY - EMBED - Message sent by the bot
+ValidTitle: 'User upgraded'
+ValidName: 'Thanks for your purchase'
+ValidValue: 'VIP ACCESS'
+ValidFooter: 'Discord bot by Skizzy#1337'
+
+# INVALID KEY - EMBED - Message sent by the bot
+InvalidTitle: 'Invalid Key !'
+InvalidFooter: 'Discord bot by Skizzy#1337'
